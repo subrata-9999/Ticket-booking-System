@@ -68,7 +68,7 @@
 
 
     <!-- Navigation Bar -->
-    <nav class="navbar navbar-expand-lg">
+    <nav class="navbar navbar-expand-lg fixed-top">
         <a class="navbar-brand" style="font-weight: bold; color: black; font-size: 20px; font-family: 'Poppins', sans-serif;" href="#">Ticket Booking System</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -85,7 +85,7 @@
     </nav>
 
     <!-- Main Content -->
-    <div class="container">
+    <div class="container" style="margin-top: 80px;">
         @yield('content') <!-- This is where the content from other views will be injected -->
     </div>
 

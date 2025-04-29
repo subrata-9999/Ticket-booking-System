@@ -18,6 +18,7 @@
     </div>
 </div>
 
+
 <div id="events-list" class="events-container">
     @if(count($events) > 0)
         @foreach($events as $event)
