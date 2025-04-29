@@ -53,16 +53,16 @@ Visit: [http://localhost:8000](http://localhost:8000)
 - User Registration and Authentication
 - Ticket Booking System
 - Laravel MVC Structure
-- Bootstrap for Frontend Styling
+- Bootstrap and CSS for Frontend Styling
 - Ajax for booking
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Framework:** Laravel 11.x
+- **Framework:** Laravel 10.x
 - **Language:** PHP 8.x
-- **Frontend:** Blade, Bootstrap 5
+- **Frontend:** Blade, Bootstrap 4.5
 - **Database:** MySQL
 - **Authentication:** Laravel Auth
 
@@ -81,16 +81,6 @@ Visit: [http://localhost:8000](http://localhost:8000)
 │   └── web.php
 └── .env
 ```
-
----
-
-## 📸 Screenshots
-
-_Add screenshots of your app here (optional)_
-
----
-
----
 
 ## 🙋‍♂️ Author
 
