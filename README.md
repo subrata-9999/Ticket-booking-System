@@ -58,10 +58,9 @@ Visit: [http://localhost:8000](http://localhost:8000)
 
 - User Registration and Authentication
 - Ticket Booking System
-- Admin/User Role Handling
-- Real-time Validation
 - Laravel MVC Structure
 - Bootstrap for Frontend Styling
+- Ajax for booking
 
 ---
 
@@ -71,7 +70,7 @@ Visit: [http://localhost:8000](http://localhost:8000)
 - **Language:** PHP 8.x
 - **Frontend:** Blade, Bootstrap 5
 - **Database:** MySQL
-- **Authentication:** Laravel Breeze
+- **Authentication:** Laravel Auth
 
 ---
 
@@ -97,15 +96,6 @@ _Add screenshots of your app here (optional)_
 
 ---
 
-## 🤝 Contributing
-
-Pull requests are welcome! If you want to improve the system or fix bugs, feel free to submit a PR.
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 
