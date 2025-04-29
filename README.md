@@ -32,19 +32,13 @@ cp .env.example .env
 
 Edit the `.env` file with your database and other environment credentials.
 
-### 5. Generate Application Key
-
-```bash
-php artisan key:generate
-```
-
-### 6. Run Migrations
+### 5. Run Migrations
 
 ```bash
 php artisan migrate
 ```
 
-### 7. Start the Development Server
+### 6. Start the Development Server
 
 ```bash
 php artisan serve
@@ -95,7 +89,6 @@ Visit: [http://localhost:8000](http://localhost:8000)
 _Add screenshots of your app here (optional)_
 
 ---
-
 
 ---
 
